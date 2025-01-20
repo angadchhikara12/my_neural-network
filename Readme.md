@@ -1,4 +1,4 @@
-# Neural Network for simple addition: Answer to Science Question 
+# Neural Network for simple addition: Answer to Science Fair Question 
 # *How similar is Neural Network to Human Brain?*
 
 ## Features
