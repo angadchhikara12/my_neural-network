@@ -53,7 +53,3 @@
    - Display the true answer.
    - Show a confidence percentage
 ---
-## Example Interaction
-```text
-
-```
